@@ -19,6 +19,6 @@ n8n self-hosted 환경에서 자동화 목적으로만 운영되며, 사용자 �
 - 데이터 삭제 요청: 문의 이메일로 연락하세요.
 
 ## 문의
-문의 사항은 eohjun@gmail.com으로 보내주세요. (예: eohjun@gmail.com으로 변경 추천.)
+문의 사항은 eohjun@gmail.com으로 보내주세요.
 
 마지막 업데이트: 2025-09-24
